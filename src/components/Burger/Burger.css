@@ -3,8 +3,9 @@
   margin: auto;
   height: 250px;
   overflow: scroll;
-  text-align: bold;
+  text-align: center;
   font-size: 1.2rem;
+  align-items: center;
 }
 
 @media (min-width: 1000px) and (min-height: 700px) {
