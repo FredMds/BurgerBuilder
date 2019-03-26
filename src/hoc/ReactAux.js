@@ -1,3 +1,3 @@
-const reactAux = (props) => props.children;
+const ReactAux = (props) => props.children;
 
-export default reactAux;
+export default ReactAux;
